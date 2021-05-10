@@ -425,6 +425,7 @@ ul.inline li {
     display: block;
     width: 85%;
     margin: auto;
+    padding-top: 30px !important;
   }
   #challenge-about-me .content-left {
     width: 100%;
